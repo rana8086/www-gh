@@ -1,15 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
 h1 {
-color: blue;
+    color: blue;
 }
 
 h2 {
-color: green;
+    color: green;
 }
 
 h3 {
-color: red;
+    color: red;
 }
 
 p {
-color: darkred;
+    color: darkred;
 }
